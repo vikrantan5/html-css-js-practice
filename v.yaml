@@ -1,0 +1,82 @@
+what 
+html = content
+
+why ==because of content
+where = in vs code
+
+how = write code live server
+when =jab v koi element banana ho to html
+
+
+code likhenge  ==cs code and koi c browser
+code chalega ==
+files ===filename + extension(humesha define hota hai ex=exe , png , pdf ,mp4 ,mp3 , .c)
+boiler plate
+tags
+h1
+p b  i sup  sub ol ul li br hr a img table video audio forms inputs html5 semantics div id class
+
+
+
+
+tags
+<h1></h1>
+
+attributes
+
+
+
+<!-- boiler plate
+
+<!-- <!DOCTYPE html>      -------html 5 hai and it is html doc
+<html lang="en">       ------wrappers hai jo head aur body ko wrap karke rakhta hai
+<head>   -----------------isme instruction aate hai
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>    -----page ka title
+</head>
+<body>----------------website ka content aatae hai
+    
+</body>
+</html> -->
+sff -->
+
+div rectangular element and ek se jyada element ko rakh sajta hai
+
+id cant be repeatable
+
+but class can be repeat
+
+
+
+
+
+html5 semantics
+
+kai baar tag ko dekh kar nhi bataya ja sakta h ki kya banane wale ho isee kaafi hd tak solve karta hai html5 semantics
+
+
+header  -pahla section
+nav       - navigation baar
+main      - poori website
+section    -pages of website
+article   -website ke andar ka content
+aside   -side me jo fixed elem
+section  --
+footer'---footer
+video   ===video
+audio  =audio
+
+ye saare tags jo jai sab div hi h ye apne aap me kuch ni karte hai
+ye google k liye hota hai read view k liye
+
+
+
+nav 
+header
+section ---- article
+
+
+
+audio tag  ----------controls
+video tag --------autoplay muted loop
