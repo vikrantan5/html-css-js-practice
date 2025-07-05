@@ -80,3 +80,97 @@ section ---- article
 
 audio tag  ----------controls
 video tag --------autoplay muted loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+css===========================
+
+width
+height
+color
+units px % vw vh em rem
+
+1px = 1px on screen
+pixwls screen k quality pe depend karta hai
+chhota bara karne par chnage nahi hota hai
+
+
+%jitna total hai uska hissa
+% humesha parent se value lete hai and vh screen se value lete ahai
+
+
+vw aur vh pure screeen height pe depend karta hai
+
+em depend karta hai us element ke font size par aur ye agar parent ko dete hai to children par v apply hota hai
+
+em hota hai kisi div ke andar ka font size and rem hota hai html tag ka font size dependent
+
+
+
+max-width and max-height
+font-family
+font-size
+line-height
+text-align
+padding
+margin
+border
+display
+position
+background
+flex
+pseudo-elements
+pseudo-classes
+
+animation
+media queries
+
+
+jaha v ek se jyada elematn h waha div h jaha rectagular element hai wha div hai
+div bnao use wh h do
+
+id  
+.class
+tag
+
+
+remem
+px%
+vw
+vh
+sans sarif and sarif
+sans sarif - rectagular
+sarif   -shrp edges
+
+font-weight
+text transform -- uppercase , lowercase , cpitalize
+text decoration -underline , overline ,line through,
+font size; -----vw mw dena
+
+
+line height --do line k bich ka height;
+
+text align -left , right ,center, justify //koi sapace nhi chhorega,
+
+padding
+
+margin
+
+
+border 1 px solid //dashed/ double /// white
+
+border - radius
+
