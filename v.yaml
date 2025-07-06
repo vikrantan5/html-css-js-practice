@@ -170,7 +170,62 @@ padding
 margin
 
 
+
+
 border 1 px solid //dashed/ double /// white
 
 border - radius
 
+
+display :
+
+
+all tags has mainly two natures : block , inline
+
+block k bagal me koi nhi aa sakta hai agar jagah ho v fir v
+lekin width height de sakte hai
+
+inline me bache hue me koi v aa sakta hai agar jagah h to
+inline element will not allow to increase width and height
+and if yuo want to increate width then inline block comes into the picture
+
+inline block means both nature bagal me v aa sakta hai aur width height v badha sakte hai
+
+
+position: relative /absolute/ relative
+
+background: url  , linear gradient
+background-size: cover / cover;
+    background-position: center;
+background-repeat:none
+
+lineargradient (: to right, rgb , rgb)
+
+
+flex-box 
+
+y - cross axis
+x- main axis
+
+pseudo-elements
+        ::before
+        ::after
+        ::first-line
+        ::first-letter
+        ::selection
+pseudo-classes
+        :hover
+        :active
+        :focus
+        :nth-child(n)
+
+animamtion
+media queries
+
+
+
+har elemant ke paas active aur before hota hi hai
+
+
+color
+max-255 min-0 
